@@ -1,2 +1,2 @@
-# hackerrank_practice
-Code from hackerrank practice
+# Hackerrank
+Code from hackerrank practice and competition
